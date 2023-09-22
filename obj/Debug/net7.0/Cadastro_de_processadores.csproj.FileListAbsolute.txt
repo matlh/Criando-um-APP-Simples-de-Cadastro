@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\obj\Debug\net7.0\Cadastro_de_processadores.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\obj\Debug\net7.0\Cadastro_de_processadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\obj\Debug\net7.0\Cadastro_de_processadores.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\obj\Debug\net7.0\Cadastro_de_processadores.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\obj\Debug\net7.0\Cadastro_de_processadores.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\bin\Debug\net7.0\Cadastro_de_processadores.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\bin\Debug\net7.0\Cadastro_de_processadores.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\bin\Debug\net7.0\Cadastro_de_processadores.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\bin\Debug\net7.0\Cadastro_de_processadores.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\bin\Debug\net7.0\Cadastro_de_processadores.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\obj\Debug\net7.0\Cadastro_de_processadores.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\obj\Debug\net7.0\refint\Cadastro_de_processadores.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\obj\Debug\net7.0\Cadastro_de_processadores.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\obj\Debug\net7.0\Cadastro_de_processadores.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Treinamento c#\Criando um APP Simples de Cadastro de Séries em .NET\Cadastro_de_processadores\obj\Debug\net7.0\ref\Cadastro_de_processadores.dll
